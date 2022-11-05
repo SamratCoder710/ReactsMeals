@@ -1,0 +1,21 @@
+img {
+  width: 100%;
+  height: auto;
+  opacity: 0.8;
+  
+}
+.imgBottom{
+    position: relative;
+    top:-114px;
+    height:0;
+    width:100%;
+    border-bottom: 110px solid rgb(65, 62, 62);
+    border-left:200vh solid transparent;
+}
+
+.menuList{
+    position: relative;
+    top:-18rem;
+    width:75%;
+    margin:0px auto;
+}

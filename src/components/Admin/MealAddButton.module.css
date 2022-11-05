@@ -1,0 +1,14 @@
+.cartHolder {
+  background-color: white;
+  padding: 17px 44px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: bold;
+  position: relative;
+  top: -350px;
+  left: 40%;
+  font-size: large;
+}

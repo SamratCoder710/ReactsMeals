@@ -1,0 +1,19 @@
+.banner{
+    width:60%;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 15px;
+    position: relative;
+    margin: 0px auto;
+    top:-350px;
+    color:#fff;
+    text-align: center;
+    background: rgba(35, 35, 35, 0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner p{
+    font-size: 18px;
+}

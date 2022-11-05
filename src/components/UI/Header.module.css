@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(135, 27, 27);
+    width:100%;
+    display: inline-block;
+}
+.title{
+    float: left;
+    font-size: 2em;
+    color:#fff;
+    font-weight: bold;
+    padding: 25px 120px;
+
+}
+.cart{
+    float :right;
+    font-size: 2em;
+    padding: 25px 120px;
+}
